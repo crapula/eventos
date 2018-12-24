@@ -1,0 +1,6 @@
+﻿1. Crea la base de datos con el archivo “agenda.sql”
+
+
+2. Monta el proyecto en el servidor local y ejecutalo en el navegador
+ 
+3. usa este usuario  jperez@gmail.com y  la clave123
